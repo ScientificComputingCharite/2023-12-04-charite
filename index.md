@@ -258,7 +258,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to any member of Charité Universitätsmedizin Berlin
+    This workshop is only open to members of the Charité Universitätsmedizin Berlin
 </p>
 
 <hr/>
